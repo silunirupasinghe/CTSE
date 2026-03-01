@@ -1,6 +1,2 @@
-package com.sliit.product_service.product;
+# IT22004390-SE4010-Labsheet03
 
-import org.springframework.data.jpa.repository.JpaRepository;
-
-public interface ProductRepository extends JpaRepository<Product, Long> {
-}
